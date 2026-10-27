@@ -1,0 +1,14 @@
+{
+  "name": "ajimu-pixel-ui",
+  "displayName": "Ajimu Pixel UI",
+  "version": "1.0.0",
+  "description": "Minimal Pixel JRPG design system: modern, readable interfaces with a subtle 16-bit RPG menu identity built from the project's own color tokens.",
+  "author": {
+    "name": "Azim Ben Othman",
+    "url": "https://github.com/AjimuZ"
+  },
+  "homepage": "https://github.com/AjimuZ/ajimu-pixel-ui",
+  "repository": "https://github.com/AjimuZ/ajimu-pixel-ui",
+  "license": "MIT",
+  "keywords": ["design-system", "pixel-art", "jrpg", "retro", "ui", "css", "accessibility"]
+}

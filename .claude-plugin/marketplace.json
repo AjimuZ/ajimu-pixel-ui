@@ -1,0 +1,15 @@
+{
+  "name": "ajimu-pixel-ui",
+  "description": "Ajimu's Minimal Pixel JRPG interface skill",
+  "owner": {
+    "name": "Azim Ben Othman",
+    "url": "https://github.com/AjimuZ"
+  },
+  "plugins": [
+    {
+      "name": "ajimu-pixel-ui",
+      "source": "./",
+      "description": "Minimal Pixel JRPG design system built from the project's own color tokens"
+    }
+  ]
+}
